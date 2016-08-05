@@ -1,0 +1,98 @@
+<?xml version="1.0" encodiNGA="UTF-8"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific laNGAuage governing permissions and limitations
+under the License.
+-->
+
+<entity-engine-xml>
+    <Geo abbreviation="Abia" 		  geoName="Abia" 		  geoCode="Abia" 		 geoId="Abia" 			geoTypeId="STATE"/>
+	<Geo abbreviation="Adamawa" 	  geoName="Adamawa" 	  geoCode="Adamawa" 	 geoId="Adamawa" 		geoTypeId="STATE"/>
+	<Geo abbreviation="Akwa-Ibom"	  geoName="Akwa Ibom"	  geoCode="Akwa-Ibom"	 geoId="Akwa-Ibom"		geoTypeId="STATE"/>
+	<Geo abbreviation="Anambra"		  geoName="Anambra"		  geoCode="Anambra"		 geoId="Anambra"		geoTypeId="STATE"/>
+	<Geo abbreviation="Bauchi"		  geoName="Bauchi"		  geoCode="Bauchi"		 geoId="Bauchi"			geoTypeId="STATE"/>
+	<Geo abbreviation="Bayelsa" 	  geoName="Bayelsa" 	  geoCode="Bayelsa" 	 geoId="Bayelsa" 		geoTypeId="STATE"/>
+	<Geo abbreviation="Benue"		  geoName="Benue"		  geoCode="Benue"		 geoId="Benue"			geoTypeId="STATE"/>
+	<Geo abbreviation="Borno"		  geoName="Borno"		  geoCode="Borno"		 geoId="Borno"			geoTypeId="STATE"/>
+	<Geo abbreviation="Cross-River"	  geoName="Cross River"	  geoCode="Cross-River"	 geoId="Cross-River"	geoTypeId="STATE"/>
+	<Geo abbreviation="Delta" 		  geoName="Delta" 		  geoCode="Delta" 		 geoId="Delta" 			geoTypeId="STATE"/>
+	<Geo abbreviation="Ebonyi" 		  geoName="Ebonyi" 		  geoCode="Ebonyi" 		 geoId="Ebonyi" 		geoTypeId="STATE"		/>
+	<Geo abbreviation="Edo"			  geoName="Edo"			  geoCode="Edo"			 geoId="Edo"			geoTypeId="STATE"		/>
+	<Geo abbreviation="Ekiti"		  geoName="Ekiti"		  geoCode="Ekiti"		 geoId="Ekiti"	  		geoTypeId="STATE"	/>
+	<Geo abbreviation="Enugu" 		  geoName="Enugu" 		  geoCode="Enugu" 		 geoId="Enugu" 			geoTypeId="STATE"	/>
+	<Geo abbreviation="FCT"			  geoName="FCT"			  geoCode="FCT"			 geoId="FCT"			geoTypeId="STATE"		/>
+	<Geo abbreviation="Gombe" 		  geoName="Gombe" 		  geoCode="Gombe" 		 geoId="Gombe" 			geoTypeId="STATE"	/>
+	<Geo abbreviation="Imo"			  geoName="Imo"			  geoCode="Imo"			 geoId="Imo"			geoTypeId="STATE"		/>
+	<Geo abbreviation="Jigawa"		  geoName="Jigawa"		  geoCode="Jigawa"		 geoId="Jigawa"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Kaduna"		  geoName="Kaduna"		  geoCode="Kaduna"		 geoId="Kaduna"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Kano"		  geoName="Kano"		  geoCode="Kano"		 geoId="Kano"			geoTypeId="STATE"	/>
+	<Geo abbreviation="katsina"		  geoName="katsina"		  geoCode="katsina"		 geoId="katsina"		geoTypeId="STATE"		/>
+	<Geo abbreviation="Kebbi"		  geoName="Kebbi"		  geoCode="Kebbi"		 geoId="Kebbi"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Kogi"		  geoName="Kogi"		  geoCode="Kogi"		 geoId="Kogi"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Kwara"		  geoName="Kwara"		  geoCode="Kwara"		 geoId="Kwara"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Lagos"		  geoName="Lagos"		  geoCode="Lagos"		 geoId="Lagos"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Nasarawa"	  geoName="Nasarawa"	  geoCode="Nasarawa"	 geoId="Nasarawa"		geoTypeId="STATE"	/>
+	<Geo abbreviation="Niger"		  geoName="Niger"		  geoCode="Niger"		 geoId="Niger"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Ogun" 		  geoName="Ogun" 		  geoCode="Ogun" 		 geoId="Ogun" 			geoTypeId="STATE"	/>
+	<Geo abbreviation="Ondo"		  geoName="Ondo"		  geoCode="Ondo"		 geoId="Ondo"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Osun"		  geoName="Osun"		  geoCode="Osun"		 geoId="Osun"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Oyo"			  geoName="Oyo"			  geoCode="Oyo"			 geoId="Oyo"			geoTypeId="STATE"		/>
+	<Geo abbreviation="Plateau"		  geoName="Plateau"		  geoCode="Plateau"		 geoId="Plateau"		geoTypeId="STATE"		/>
+	<Geo abbreviation="Rivers"		  geoName="Rivers"		  geoCode="Rivers"		 geoId="Rivers"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Sokoto"		  geoName="Sokoto"		  geoCode="Sokoto"		 geoId="Sokoto"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Taraba" 		  geoName="Taraba" 		  geoCode="Taraba" 		 geoId="Taraba" 		geoTypeId="STATE"		/>
+	<Geo abbreviation="Yobe"		  geoName="Yobe"		  geoCode="Yobe"		 geoId="Yobe"			geoTypeId="STATE"	/>
+	<Geo abbreviation="Zamfara"		  geoName="Zamfara"		  geoCode="Zamfara" 	 geoId="Zamfara" 		geoTypeId="STATE"	/>
+
+	<GeoAssoc geoId="NGA" geoIdTo="Abia" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Adamawa" 	 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Akwa-Ibom"	 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Anambra"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Bauchi"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Bayelsa" 	 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Benue"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Borno"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Cross-River"	 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Delta" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Ebonyi" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Edo"			 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Ekiti"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Enugu" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="FCT"			 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Gombe" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Imo"			 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Jigawa"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Kaduna"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Kano"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="katsina"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Kebbi"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Kogi"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Kwara"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Lagos"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Nasarawa"	 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Niger"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Ogun" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Ondo"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Osun"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Oyo"			 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Plateau"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Rivers"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Sokoto"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Taraba" 		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Yobe"		 geoAssocTypeId="REGIONS"/>
+	<GeoAssoc geoId="NGA" geoIdTo="Zamfara" 	 geoAssocTypeId="REGIONS"/>
+</entity-engine-xml>
+
